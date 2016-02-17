@@ -1,4 +1,5 @@
 {
+    "name": "beberlei/fiddler",
     "require": {
         "composer/composer": "dev-master",
         "symfony/console": "@stable"
